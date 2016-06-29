@@ -60,6 +60,9 @@ for state in data:
     # print "%s: %i" % (key, virginiaData[key])
 
 
+# def getSum(state):
+# 	print state
+
 # filteredData = {}
 
 # countyData = data["Virginia"]
@@ -69,14 +72,33 @@ for state in data:
 
 # print json.dumps(maxData)
 
+# print jsonData
+
+# for item in jsonData:
+	# print str(item)
+
+# jsonData_sorted = sorted(jsonData, key=lambda p : len(p["children"]))
+jsonData_sorted = sorted(jsonData, key=lambda p : statePops[p["name"]])
+
+# print jsonData_sorted
 
 master = []
-master.append({"name": "United States", "children": jsonData})
+master.append({"name": "United States", "children": jsonData_sorted})
+
+
 
 f = open("jsonOut.json", "w")
 # print json.dumps(jsonData)
 
+# print master[0]['children']
+
+# allsites_ordered = [OrderedDict(sorted(item.iteritems(), key=len))
+#                     for item in master]
+
+# print(allsites_ordered)
+
 json.dump(master[0], f, sort_keys=False, indent=4, separators=(',', ': '))
+
 
 f.close()
 

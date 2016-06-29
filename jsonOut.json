@@ -2,6 +2,218 @@
     "name": "United States",
     "children": [
         {
+            "name": "Wyoming",
+            "children": [
+                {
+                    "name": "Laramie County",
+                    "size": 91738
+                }
+            ]
+        },
+        {
+            "name": "District of Columbia",
+            "children": [
+                {
+                    "name": "District of Columbia",
+                    "size": 601723
+                }
+            ]
+        },
+        {
+            "name": "Vermont",
+            "children": [
+                {
+                    "name": "Chittenden County",
+                    "size": 156545
+                }
+            ]
+        },
+        {
+            "name": "North Dakota",
+            "children": [
+                {
+                    "name": "Cass County",
+                    "size": 149778
+                }
+            ]
+        },
+        {
+            "name": "Alaska",
+            "children": [
+                {
+                    "name": "Anchorage Municipality",
+                    "size": 291826
+                }
+            ]
+        },
+        {
+            "name": "South Dakota",
+            "children": [
+                {
+                    "name": "Minnehaha County",
+                    "size": 169468
+                }
+            ]
+        },
+        {
+            "name": "Delaware",
+            "children": [
+                {
+                    "name": "New Castle County",
+                    "size": 538479
+                }
+            ]
+        },
+        {
+            "name": "Montana",
+            "children": [
+                {
+                    "name": "Yellowstone County",
+                    "size": 147972
+                }
+            ]
+        },
+        {
+            "name": "Rhode Island",
+            "children": [
+                {
+                    "name": "Providence County",
+                    "size": 626667
+                }
+            ]
+        },
+        {
+            "name": "New Hampshire",
+            "children": [
+                {
+                    "name": "Hillsborough County",
+                    "size": 400721
+                }
+            ]
+        },
+        {
+            "name": "Maine",
+            "children": [
+                {
+                    "name": "Cumberland County",
+                    "size": 281674
+                }
+            ]
+        },
+        {
+            "name": "Hawaii",
+            "children": [
+                {
+                    "name": "Honolulu County",
+                    "size": 953207
+                }
+            ]
+        },
+        {
+            "name": "Idaho",
+            "children": [
+                {
+                    "name": "Ada County",
+                    "size": 392365
+                },
+                {
+                    "name": "Canyon County",
+                    "size": 188923
+                }
+            ]
+        },
+        {
+            "name": "Nebraska",
+            "children": [
+                {
+                    "name": "Douglas County",
+                    "size": 517110
+                },
+                {
+                    "name": "Lancaster County",
+                    "size": 285407
+                }
+            ]
+        },
+        {
+            "name": "West Virginia",
+            "children": [
+                {
+                    "name": "Kanawha County",
+                    "size": 193063
+                },
+                {
+                    "name": "Berkeley County",
+                    "size": 104169
+                }
+            ]
+        },
+        {
+            "name": "New Mexico",
+            "children": [
+                {
+                    "name": "Bernalillo County",
+                    "size": 662564
+                },
+                {
+                    "name": "Do\u00f1a Ana County",
+                    "size": 209233
+                }
+            ]
+        },
+        {
+            "name": "Nevada",
+            "children": [
+                {
+                    "name": "Clark County",
+                    "size": 1951269
+                },
+                {
+                    "name": "Washoe County",
+                    "size": 421407
+                }
+            ]
+        },
+        {
+            "name": "Utah",
+            "children": [
+                {
+                    "name": "Salt Lake County",
+                    "size": 1029655
+                },
+                {
+                    "name": "Utah County",
+                    "size": 516564
+                }
+            ]
+        },
+        {
+            "name": "Kansas",
+            "children": [
+                {
+                    "name": "Johnson County",
+                    "size": 544179
+                },
+                {
+                    "name": "Sedgwick County",
+                    "size": 498365
+                }
+            ]
+        },
+        {
+            "name": "Arkansas",
+            "children": [
+                {
+                    "name": "Pulaski County",
+                    "size": 382748
+                },
+                {
+                    "name": "Benton County",
+                    "size": 221339
+                }
+            ]
+        },
+        {
             "name": "Mississippi",
             "children": [
                 {
@@ -11,6 +223,36 @@
                 {
                     "name": "Harrison County",
                     "size": 187105
+                }
+            ]
+        },
+        {
+            "name": "Iowa",
+            "children": [
+                {
+                    "name": "Polk County",
+                    "size": 430640
+                },
+                {
+                    "name": "Linn County",
+                    "size": 211226
+                }
+            ]
+        },
+        {
+            "name": "Connecticut",
+            "children": [
+                {
+                    "name": "Fairfield County",
+                    "size": 916829
+                },
+                {
+                    "name": "Hartford County",
+                    "size": 894014
+                },
+                {
+                    "name": "New Haven County",
+                    "size": 862477
                 }
             ]
         },
@@ -32,11 +274,112 @@
             ]
         },
         {
-            "name": "Delaware",
+            "name": "Oregon",
             "children": [
                 {
-                    "name": "New Castle County",
-                    "size": 538479
+                    "name": "Multnomah County",
+                    "size": 735334
+                },
+                {
+                    "name": "Washington County",
+                    "size": 529710
+                },
+                {
+                    "name": "Clackamas County",
+                    "size": 375992
+                }
+            ]
+        },
+        {
+            "name": "Kentucky",
+            "children": [
+                {
+                    "name": "Jefferson County",
+                    "size": 741096
+                },
+                {
+                    "name": "Fayette County",
+                    "size": 295803
+                },
+                {
+                    "name": "Kenton County",
+                    "size": 159720
+                }
+            ]
+        },
+        {
+            "name": "Louisiana",
+            "children": [
+                {
+                    "name": "East Baton Rouge Parish",
+                    "size": 440171
+                },
+                {
+                    "name": "Jefferson Parish",
+                    "size": 432552
+                },
+                {
+                    "name": "Orleans Parish",
+                    "size": 343829
+                }
+            ]
+        },
+        {
+            "name": "South Carolina",
+            "children": [
+                {
+                    "name": "Greenville County",
+                    "size": 451225
+                },
+                {
+                    "name": "Richland County",
+                    "size": 384504
+                },
+                {
+                    "name": "Charleston County",
+                    "size": 350209
+                }
+            ]
+        },
+        {
+            "name": "Alabama",
+            "children": [
+                {
+                    "name": "Jefferson County",
+                    "size": 658466
+                },
+                {
+                    "name": "Mobile County",
+                    "size": 412992
+                },
+                {
+                    "name": "Madison County",
+                    "size": 334811
+                },
+                {
+                    "name": "Montgomery County",
+                    "size": 229363
+                }
+            ]
+        },
+        {
+            "name": "Colorado",
+            "children": [
+                {
+                    "name": "El Paso County",
+                    "size": 622263
+                },
+                {
+                    "name": "Denver County",
+                    "size": 600158
+                },
+                {
+                    "name": "Arapahoe County",
+                    "size": 572003
+                },
+                {
+                    "name": "Jefferson County",
+                    "size": 534543
                 }
             ]
         },
@@ -62,94 +405,23 @@
             ]
         },
         {
-            "name": "Illinois",
+            "name": "Wisconsin",
             "children": [
                 {
-                    "name": "Cook County",
-                    "size": 5194675
+                    "name": "Milwaukee County",
+                    "size": 947735
                 },
                 {
-                    "name": "DuPage County",
-                    "size": 916924
+                    "name": "Dane County",
+                    "size": 488073
                 },
                 {
-                    "name": "Lake County",
-                    "size": 703462
+                    "name": "Waukesha County",
+                    "size": 389891
                 },
                 {
-                    "name": "Will County",
-                    "size": 677560
-                },
-                {
-                    "name": "Kane County",
-                    "size": 515269
-                },
-                {
-                    "name": "McHenry County",
-                    "size": 308760
-                },
-                {
-                    "name": "Winnebago County",
-                    "size": 295266
-                },
-                {
-                    "name": "St. Clair County",
-                    "size": 270056
-                },
-                {
-                    "name": "Madison County",
-                    "size": 269282
-                }
-            ]
-        },
-        {
-            "name": "Arkansas",
-            "children": [
-                {
-                    "name": "Pulaski County",
-                    "size": 382748
-                },
-                {
-                    "name": "Benton County",
-                    "size": 221339
-                }
-            ]
-        },
-        {
-            "name": "New Mexico",
-            "children": [
-                {
-                    "name": "Bernalillo County",
-                    "size": 662564
-                },
-                {
-                    "name": "Do\u00f1a Ana County",
-                    "size": 209233
-                }
-            ]
-        },
-        {
-            "name": "Indiana",
-            "children": [
-                {
-                    "name": "Marion County",
-                    "size": 903393
-                },
-                {
-                    "name": "Lake County",
-                    "size": 496005
-                },
-                {
-                    "name": "Allen County",
-                    "size": 355329
-                },
-                {
-                    "name": "Hamilton County",
-                    "size": 274569
-                },
-                {
-                    "name": "St. Joseph County",
-                    "size": 266931
+                    "name": "Brown County",
+                    "size": 248007
                 }
             ]
         },
@@ -175,41 +447,23 @@
             ]
         },
         {
-            "name": "Louisiana",
+            "name": "Missouri",
             "children": [
                 {
-                    "name": "East Baton Rouge Parish",
-                    "size": 440171
+                    "name": "St. Louis County",
+                    "size": 998954
                 },
                 {
-                    "name": "Jefferson Parish",
-                    "size": 432552
+                    "name": "Jackson County",
+                    "size": 674158
                 },
                 {
-                    "name": "Orleans Parish",
-                    "size": 343829
-                }
-            ]
-        },
-        {
-            "name": "Idaho",
-            "children": [
-                {
-                    "name": "Ada County",
-                    "size": 392365
+                    "name": "St. Charles County",
+                    "size": 360485
                 },
                 {
-                    "name": "Canyon County",
-                    "size": 188923
-                }
-            ]
-        },
-        {
-            "name": "Wyoming",
-            "children": [
-                {
-                    "name": "Laramie County",
-                    "size": 91738
+                    "name": "St. Louis city",
+                    "size": 319294
                 }
             ]
         },
@@ -264,15 +518,201 @@
             ]
         },
         {
-            "name": "Iowa",
+            "name": "Indiana",
             "children": [
                 {
-                    "name": "Polk County",
-                    "size": 430640
+                    "name": "Marion County",
+                    "size": 903393
                 },
                 {
-                    "name": "Linn County",
-                    "size": 211226
+                    "name": "Lake County",
+                    "size": 496005
+                },
+                {
+                    "name": "Allen County",
+                    "size": 355329
+                },
+                {
+                    "name": "Hamilton County",
+                    "size": 274569
+                },
+                {
+                    "name": "St. Joseph County",
+                    "size": 266931
+                }
+            ]
+        },
+        {
+            "name": "Massachusetts",
+            "children": [
+                {
+                    "name": "Middlesex County",
+                    "size": 1503085
+                },
+                {
+                    "name": "Worcester County",
+                    "size": 798552
+                },
+                {
+                    "name": "Essex County",
+                    "size": 743159
+                },
+                {
+                    "name": "Suffolk County",
+                    "size": 722023
+                },
+                {
+                    "name": "Norfolk County",
+                    "size": 670850
+                }
+            ]
+        },
+        {
+            "name": "Washington",
+            "children": [
+                {
+                    "name": "King County",
+                    "size": 1931249
+                },
+                {
+                    "name": "Pierce County",
+                    "size": 795225
+                },
+                {
+                    "name": "Snohomish County",
+                    "size": 713335
+                },
+                {
+                    "name": "Spokane County",
+                    "size": 471221
+                },
+                {
+                    "name": "Clark County",
+                    "size": 425363
+                }
+            ]
+        },
+        {
+            "name": "Virginia",
+            "children": [
+                {
+                    "name": "Fairfax County",
+                    "size": 1081726
+                },
+                {
+                    "name": "Virginia Beach city",
+                    "size": 437994
+                },
+                {
+                    "name": "Prince William County",
+                    "size": 402002
+                },
+                {
+                    "name": "Chesterfield County",
+                    "size": 316236
+                },
+                {
+                    "name": "Loudoun County",
+                    "size": 312311
+                },
+                {
+                    "name": "Henrico County",
+                    "size": 306935
+                }
+            ]
+        },
+        {
+            "name": "New Jersey",
+            "children": [
+                {
+                    "name": "Bergen County",
+                    "size": 905116
+                },
+                {
+                    "name": "Middlesex County",
+                    "size": 809858
+                },
+                {
+                    "name": "Essex County",
+                    "size": 783969
+                },
+                {
+                    "name": "Hudson County",
+                    "size": 634266
+                },
+                {
+                    "name": "Monmouth County",
+                    "size": 630380
+                },
+                {
+                    "name": "Ocean County",
+                    "size": 576567
+                }
+            ]
+        },
+        {
+            "name": "North Carolina",
+            "children": [
+                {
+                    "name": "Mecklenburg County",
+                    "size": 919628
+                },
+                {
+                    "name": "Wake County",
+                    "size": 900993
+                },
+                {
+                    "name": "Guilford County",
+                    "size": 488406
+                },
+                {
+                    "name": "Forsyth County",
+                    "size": 350670
+                },
+                {
+                    "name": "Cumberland County",
+                    "size": 319431
+                },
+                {
+                    "name": "Durham County",
+                    "size": 267587
+                },
+                {
+                    "name": "Buncombe County",
+                    "size": 238318
+                }
+            ]
+        },
+        {
+            "name": "Georgia",
+            "children": [
+                {
+                    "name": "Fulton County",
+                    "size": 920581
+                },
+                {
+                    "name": "Gwinnett County",
+                    "size": 805321
+                },
+                {
+                    "name": "DeKalb County",
+                    "size": 691893
+                },
+                {
+                    "name": "Cobb County",
+                    "size": 688078
+                },
+                {
+                    "name": "Chatham County",
+                    "size": 265128
+                },
+                {
+                    "name": "Clayton County",
+                    "size": 259424
+                },
+                {
+                    "name": "Cherokee County",
+                    "size": 214346
                 }
             ]
         },
@@ -310,100 +750,308 @@
             ]
         },
         {
-            "name": "Kansas",
+            "name": "Ohio",
             "children": [
                 {
-                    "name": "Johnson County",
-                    "size": 544179
+                    "name": "Cuyahoga County",
+                    "size": 1280122
                 },
                 {
-                    "name": "Sedgwick County",
-                    "size": 498365
+                    "name": "Franklin County",
+                    "size": 1163414
+                },
+                {
+                    "name": "Hamilton County",
+                    "size": 802374
+                },
+                {
+                    "name": "Summit County",
+                    "size": 541781
+                },
+                {
+                    "name": "Montgomery County",
+                    "size": 535153
+                },
+                {
+                    "name": "Lucas County",
+                    "size": 441815
+                },
+                {
+                    "name": "Stark County",
+                    "size": 375586
+                },
+                {
+                    "name": "Butler County",
+                    "size": 368130
                 }
             ]
         },
         {
-            "name": "Utah",
+            "name": "Pennsylvania",
             "children": [
                 {
-                    "name": "Salt Lake County",
-                    "size": 1029655
+                    "name": "Philadelphia County",
+                    "size": 1526006
                 },
                 {
-                    "name": "Utah County",
-                    "size": 516564
+                    "name": "Allegheny County",
+                    "size": 1223348
+                },
+                {
+                    "name": "Montgomery County",
+                    "size": 799874
+                },
+                {
+                    "name": "Bucks County",
+                    "size": 625249
+                },
+                {
+                    "name": "Delaware County",
+                    "size": 558979
+                },
+                {
+                    "name": "Lancaster County",
+                    "size": 519445
+                },
+                {
+                    "name": "Chester County",
+                    "size": 498886
+                },
+                {
+                    "name": "York County",
+                    "size": 434972
+                },
+                {
+                    "name": "Berks County",
+                    "size": 411442
                 }
             ]
         },
         {
-            "name": "Virginia",
+            "name": "Illinois",
             "children": [
                 {
-                    "name": "Fairfax County",
-                    "size": 1081726
+                    "name": "Cook County",
+                    "size": 5194675
                 },
                 {
-                    "name": "Virginia Beach city",
-                    "size": 437994
+                    "name": "DuPage County",
+                    "size": 916924
                 },
                 {
-                    "name": "Prince William County",
-                    "size": 402002
+                    "name": "Lake County",
+                    "size": 703462
                 },
                 {
-                    "name": "Chesterfield County",
-                    "size": 316236
+                    "name": "Will County",
+                    "size": 677560
                 },
                 {
-                    "name": "Loudoun County",
-                    "size": 312311
+                    "name": "Kane County",
+                    "size": 515269
                 },
                 {
-                    "name": "Henrico County",
-                    "size": 306935
+                    "name": "McHenry County",
+                    "size": 308760
+                },
+                {
+                    "name": "Winnebago County",
+                    "size": 295266
+                },
+                {
+                    "name": "St. Clair County",
+                    "size": 270056
+                },
+                {
+                    "name": "Madison County",
+                    "size": 269282
                 }
             ]
         },
         {
-            "name": "Oregon",
+            "name": "Florida",
             "children": [
                 {
-                    "name": "Multnomah County",
-                    "size": 735334
+                    "name": "Miami-Dade County",
+                    "size": 2496435
                 },
                 {
-                    "name": "Washington County",
-                    "size": 529710
+                    "name": "Broward County",
+                    "size": 1748066
                 },
                 {
-                    "name": "Clackamas County",
-                    "size": 375992
+                    "name": "Palm Beach County",
+                    "size": 1320134
+                },
+                {
+                    "name": "Hillsborough County",
+                    "size": 1229226
+                },
+                {
+                    "name": "Orange County",
+                    "size": 1145956
+                },
+                {
+                    "name": "Pinellas County",
+                    "size": 916542
+                },
+                {
+                    "name": "Duval County",
+                    "size": 864263
+                },
+                {
+                    "name": "Lee County",
+                    "size": 618754
+                },
+                {
+                    "name": "Polk County",
+                    "size": 602095
+                },
+                {
+                    "name": "Brevard County",
+                    "size": 543376
+                },
+                {
+                    "name": "Volusia County",
+                    "size": 494593
+                },
+                {
+                    "name": "Pasco County",
+                    "size": 464697
+                },
+                {
+                    "name": "Seminole County",
+                    "size": 422718
                 }
             ]
         },
         {
-            "name": "Connecticut",
+            "name": "New York",
             "children": [
                 {
-                    "name": "Fairfield County",
-                    "size": 916829
+                    "name": "Kings County",
+                    "size": 2504700
                 },
                 {
-                    "name": "Hartford County",
-                    "size": 894014
+                    "name": "Queens County",
+                    "size": 2230722
                 },
                 {
-                    "name": "New Haven County",
-                    "size": 862477
+                    "name": "New York County",
+                    "size": 1585873
+                },
+                {
+                    "name": "Suffolk County",
+                    "size": 1493350
+                },
+                {
+                    "name": "Bronx County",
+                    "size": 1385108
+                },
+                {
+                    "name": "Nassau County",
+                    "size": 1339532
+                },
+                {
+                    "name": "Westchester County",
+                    "size": 949113
+                },
+                {
+                    "name": "Erie County",
+                    "size": 919040
+                },
+                {
+                    "name": "Monroe County",
+                    "size": 744344
+                },
+                {
+                    "name": "Richmond County",
+                    "size": 468730
+                },
+                {
+                    "name": "Onondaga County",
+                    "size": 467026
+                },
+                {
+                    "name": "Orange County",
+                    "size": 372813
+                },
+                {
+                    "name": "Rockland County",
+                    "size": 311687
                 }
             ]
         },
         {
-            "name": "Montana",
+            "name": "Texas",
             "children": [
                 {
-                    "name": "Yellowstone County",
-                    "size": 147972
+                    "name": "Harris County",
+                    "size": 4092459
+                },
+                {
+                    "name": "Dallas County",
+                    "size": 2368139
+                },
+                {
+                    "name": "Tarrant County",
+                    "size": 1809034
+                },
+                {
+                    "name": "Bexar County",
+                    "size": 1714773
+                },
+                {
+                    "name": "Travis County",
+                    "size": 1024266
+                },
+                {
+                    "name": "El Paso County",
+                    "size": 800647
+                },
+                {
+                    "name": "Collin County",
+                    "size": 782341
+                },
+                {
+                    "name": "Hidalgo County",
+                    "size": 774769
+                },
+                {
+                    "name": "Denton County",
+                    "size": 662614
+                },
+                {
+                    "name": "Fort Bend County",
+                    "size": 585375
+                },
+                {
+                    "name": "Montgomery County",
+                    "size": 455746
+                },
+                {
+                    "name": "Williamson County",
+                    "size": 422679
+                },
+                {
+                    "name": "Cameron County",
+                    "size": 406220
+                },
+                {
+                    "name": "Nueces County",
+                    "size": 340223
+                },
+                {
+                    "name": "Brazoria County",
+                    "size": 313166
+                },
+                {
+                    "name": "Bell County",
+                    "size": 310235
+                },
+                {
+                    "name": "Galveston County",
+                    "size": 291309
                 }
             ]
         },
@@ -509,654 +1157,6 @@
                 {
                     "name": "Merced County",
                     "size": 255793
-                }
-            ]
-        },
-        {
-            "name": "Massachusetts",
-            "children": [
-                {
-                    "name": "Middlesex County",
-                    "size": 1503085
-                },
-                {
-                    "name": "Worcester County",
-                    "size": 798552
-                },
-                {
-                    "name": "Essex County",
-                    "size": 743159
-                },
-                {
-                    "name": "Suffolk County",
-                    "size": 722023
-                },
-                {
-                    "name": "Norfolk County",
-                    "size": 670850
-                }
-            ]
-        },
-        {
-            "name": "West Virginia",
-            "children": [
-                {
-                    "name": "Kanawha County",
-                    "size": 193063
-                },
-                {
-                    "name": "Berkeley County",
-                    "size": 104169
-                }
-            ]
-        },
-        {
-            "name": "South Carolina",
-            "children": [
-                {
-                    "name": "Greenville County",
-                    "size": 451225
-                },
-                {
-                    "name": "Richland County",
-                    "size": 384504
-                },
-                {
-                    "name": "Charleston County",
-                    "size": 350209
-                }
-            ]
-        },
-        {
-            "name": "New Hampshire",
-            "children": [
-                {
-                    "name": "Hillsborough County",
-                    "size": 400721
-                }
-            ]
-        },
-        {
-            "name": "Wisconsin",
-            "children": [
-                {
-                    "name": "Milwaukee County",
-                    "size": 947735
-                },
-                {
-                    "name": "Dane County",
-                    "size": 488073
-                },
-                {
-                    "name": "Waukesha County",
-                    "size": 389891
-                },
-                {
-                    "name": "Brown County",
-                    "size": 248007
-                }
-            ]
-        },
-        {
-            "name": "Vermont",
-            "children": [
-                {
-                    "name": "Chittenden County",
-                    "size": 156545
-                }
-            ]
-        },
-        {
-            "name": "Georgia",
-            "children": [
-                {
-                    "name": "Fulton County",
-                    "size": 920581
-                },
-                {
-                    "name": "Gwinnett County",
-                    "size": 805321
-                },
-                {
-                    "name": "DeKalb County",
-                    "size": 691893
-                },
-                {
-                    "name": "Cobb County",
-                    "size": 688078
-                },
-                {
-                    "name": "Chatham County",
-                    "size": 265128
-                },
-                {
-                    "name": "Clayton County",
-                    "size": 259424
-                },
-                {
-                    "name": "Cherokee County",
-                    "size": 214346
-                }
-            ]
-        },
-        {
-            "name": "North Dakota",
-            "children": [
-                {
-                    "name": "Cass County",
-                    "size": 149778
-                }
-            ]
-        },
-        {
-            "name": "Pennsylvania",
-            "children": [
-                {
-                    "name": "Philadelphia County",
-                    "size": 1526006
-                },
-                {
-                    "name": "Allegheny County",
-                    "size": 1223348
-                },
-                {
-                    "name": "Montgomery County",
-                    "size": 799874
-                },
-                {
-                    "name": "Bucks County",
-                    "size": 625249
-                },
-                {
-                    "name": "Delaware County",
-                    "size": 558979
-                },
-                {
-                    "name": "Lancaster County",
-                    "size": 519445
-                },
-                {
-                    "name": "Chester County",
-                    "size": 498886
-                },
-                {
-                    "name": "York County",
-                    "size": 434972
-                },
-                {
-                    "name": "Berks County",
-                    "size": 411442
-                }
-            ]
-        },
-        {
-            "name": "Florida",
-            "children": [
-                {
-                    "name": "Miami-Dade County",
-                    "size": 2496435
-                },
-                {
-                    "name": "Broward County",
-                    "size": 1748066
-                },
-                {
-                    "name": "Palm Beach County",
-                    "size": 1320134
-                },
-                {
-                    "name": "Hillsborough County",
-                    "size": 1229226
-                },
-                {
-                    "name": "Orange County",
-                    "size": 1145956
-                },
-                {
-                    "name": "Pinellas County",
-                    "size": 916542
-                },
-                {
-                    "name": "Duval County",
-                    "size": 864263
-                },
-                {
-                    "name": "Lee County",
-                    "size": 618754
-                },
-                {
-                    "name": "Polk County",
-                    "size": 602095
-                },
-                {
-                    "name": "Brevard County",
-                    "size": 543376
-                },
-                {
-                    "name": "Volusia County",
-                    "size": 494593
-                },
-                {
-                    "name": "Pasco County",
-                    "size": 464697
-                },
-                {
-                    "name": "Seminole County",
-                    "size": 422718
-                }
-            ]
-        },
-        {
-            "name": "Alaska",
-            "children": [
-                {
-                    "name": "Anchorage Municipality",
-                    "size": 291826
-                }
-            ]
-        },
-        {
-            "name": "Kentucky",
-            "children": [
-                {
-                    "name": "Jefferson County",
-                    "size": 741096
-                },
-                {
-                    "name": "Fayette County",
-                    "size": 295803
-                },
-                {
-                    "name": "Kenton County",
-                    "size": 159720
-                }
-            ]
-        },
-        {
-            "name": "Hawaii",
-            "children": [
-                {
-                    "name": "Honolulu County",
-                    "size": 953207
-                }
-            ]
-        },
-        {
-            "name": "Nebraska",
-            "children": [
-                {
-                    "name": "Douglas County",
-                    "size": 517110
-                },
-                {
-                    "name": "Lancaster County",
-                    "size": 285407
-                }
-            ]
-        },
-        {
-            "name": "Missouri",
-            "children": [
-                {
-                    "name": "St. Louis County",
-                    "size": 998954
-                },
-                {
-                    "name": "Jackson County",
-                    "size": 674158
-                },
-                {
-                    "name": "St. Charles County",
-                    "size": 360485
-                },
-                {
-                    "name": "St. Louis city",
-                    "size": 319294
-                }
-            ]
-        },
-        {
-            "name": "Ohio",
-            "children": [
-                {
-                    "name": "Cuyahoga County",
-                    "size": 1280122
-                },
-                {
-                    "name": "Franklin County",
-                    "size": 1163414
-                },
-                {
-                    "name": "Hamilton County",
-                    "size": 802374
-                },
-                {
-                    "name": "Summit County",
-                    "size": 541781
-                },
-                {
-                    "name": "Montgomery County",
-                    "size": 535153
-                },
-                {
-                    "name": "Lucas County",
-                    "size": 441815
-                },
-                {
-                    "name": "Stark County",
-                    "size": 375586
-                },
-                {
-                    "name": "Butler County",
-                    "size": 368130
-                }
-            ]
-        },
-        {
-            "name": "Alabama",
-            "children": [
-                {
-                    "name": "Jefferson County",
-                    "size": 658466
-                },
-                {
-                    "name": "Mobile County",
-                    "size": 412992
-                },
-                {
-                    "name": "Madison County",
-                    "size": 334811
-                },
-                {
-                    "name": "Montgomery County",
-                    "size": 229363
-                }
-            ]
-        },
-        {
-            "name": "New York",
-            "children": [
-                {
-                    "name": "Kings County",
-                    "size": 2504700
-                },
-                {
-                    "name": "Queens County",
-                    "size": 2230722
-                },
-                {
-                    "name": "New York County",
-                    "size": 1585873
-                },
-                {
-                    "name": "Suffolk County",
-                    "size": 1493350
-                },
-                {
-                    "name": "Bronx County",
-                    "size": 1385108
-                },
-                {
-                    "name": "Nassau County",
-                    "size": 1339532
-                },
-                {
-                    "name": "Westchester County",
-                    "size": 949113
-                },
-                {
-                    "name": "Erie County",
-                    "size": 919040
-                },
-                {
-                    "name": "Monroe County",
-                    "size": 744344
-                },
-                {
-                    "name": "Richmond County",
-                    "size": 468730
-                },
-                {
-                    "name": "Onondaga County",
-                    "size": 467026
-                },
-                {
-                    "name": "Orange County",
-                    "size": 372813
-                },
-                {
-                    "name": "Rockland County",
-                    "size": 311687
-                }
-            ]
-        },
-        {
-            "name": "South Dakota",
-            "children": [
-                {
-                    "name": "Minnehaha County",
-                    "size": 169468
-                }
-            ]
-        },
-        {
-            "name": "Colorado",
-            "children": [
-                {
-                    "name": "El Paso County",
-                    "size": 622263
-                },
-                {
-                    "name": "Denver County",
-                    "size": 600158
-                },
-                {
-                    "name": "Arapahoe County",
-                    "size": 572003
-                },
-                {
-                    "name": "Jefferson County",
-                    "size": 534543
-                }
-            ]
-        },
-        {
-            "name": "New Jersey",
-            "children": [
-                {
-                    "name": "Bergen County",
-                    "size": 905116
-                },
-                {
-                    "name": "Middlesex County",
-                    "size": 809858
-                },
-                {
-                    "name": "Essex County",
-                    "size": 783969
-                },
-                {
-                    "name": "Hudson County",
-                    "size": 634266
-                },
-                {
-                    "name": "Monmouth County",
-                    "size": 630380
-                },
-                {
-                    "name": "Ocean County",
-                    "size": 576567
-                }
-            ]
-        },
-        {
-            "name": "Washington",
-            "children": [
-                {
-                    "name": "King County",
-                    "size": 1931249
-                },
-                {
-                    "name": "Pierce County",
-                    "size": 795225
-                },
-                {
-                    "name": "Snohomish County",
-                    "size": 713335
-                },
-                {
-                    "name": "Spokane County",
-                    "size": 471221
-                },
-                {
-                    "name": "Clark County",
-                    "size": 425363
-                }
-            ]
-        },
-        {
-            "name": "North Carolina",
-            "children": [
-                {
-                    "name": "Mecklenburg County",
-                    "size": 919628
-                },
-                {
-                    "name": "Wake County",
-                    "size": 900993
-                },
-                {
-                    "name": "Guilford County",
-                    "size": 488406
-                },
-                {
-                    "name": "Forsyth County",
-                    "size": 350670
-                },
-                {
-                    "name": "Cumberland County",
-                    "size": 319431
-                },
-                {
-                    "name": "Durham County",
-                    "size": 267587
-                },
-                {
-                    "name": "Buncombe County",
-                    "size": 238318
-                }
-            ]
-        },
-        {
-            "name": "District of Columbia",
-            "children": [
-                {
-                    "name": "District of Columbia",
-                    "size": 601723
-                }
-            ]
-        },
-        {
-            "name": "Texas",
-            "children": [
-                {
-                    "name": "Harris County",
-                    "size": 4092459
-                },
-                {
-                    "name": "Dallas County",
-                    "size": 2368139
-                },
-                {
-                    "name": "Tarrant County",
-                    "size": 1809034
-                },
-                {
-                    "name": "Bexar County",
-                    "size": 1714773
-                },
-                {
-                    "name": "Travis County",
-                    "size": 1024266
-                },
-                {
-                    "name": "El Paso County",
-                    "size": 800647
-                },
-                {
-                    "name": "Collin County",
-                    "size": 782341
-                },
-                {
-                    "name": "Hidalgo County",
-                    "size": 774769
-                },
-                {
-                    "name": "Denton County",
-                    "size": 662614
-                },
-                {
-                    "name": "Fort Bend County",
-                    "size": 585375
-                },
-                {
-                    "name": "Montgomery County",
-                    "size": 455746
-                },
-                {
-                    "name": "Williamson County",
-                    "size": 422679
-                },
-                {
-                    "name": "Cameron County",
-                    "size": 406220
-                },
-                {
-                    "name": "Nueces County",
-                    "size": 340223
-                },
-                {
-                    "name": "Brazoria County",
-                    "size": 313166
-                },
-                {
-                    "name": "Bell County",
-                    "size": 310235
-                },
-                {
-                    "name": "Galveston County",
-                    "size": 291309
-                }
-            ]
-        },
-        {
-            "name": "Nevada",
-            "children": [
-                {
-                    "name": "Clark County",
-                    "size": 1951269
-                },
-                {
-                    "name": "Washoe County",
-                    "size": 421407
-                }
-            ]
-        },
-        {
-            "name": "Maine",
-            "children": [
-                {
-                    "name": "Cumberland County",
-                    "size": 281674
-                }
-            ]
-        },
-        {
-            "name": "Rhode Island",
-            "children": [
-                {
-                    "name": "Providence County",
-                    "size": 626667
                 }
             ]
         }
