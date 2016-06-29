@@ -55,7 +55,7 @@ for state in data:
 		# maxData[state][key] = stateData[key]
 		countyData.append({"name": key, "size": stateData[key]})
 
-	jsonData.append({"name": state, "children": countyData})
+	jsonData.append({"name": state, "children": countyData, "size": statePops[state]})
 
     # print "%s: %i" % (key, virginiaData[key])
 

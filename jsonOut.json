@@ -2,6 +2,7 @@
     "name": "United States",
     "children": [
         {
+            "size": 563626,
             "name": "Wyoming",
             "children": [
                 {
@@ -11,6 +12,7 @@
             ]
         },
         {
+            "size": 601723,
             "name": "District of Columbia",
             "children": [
                 {
@@ -20,6 +22,7 @@
             ]
         },
         {
+            "size": 625741,
             "name": "Vermont",
             "children": [
                 {
@@ -29,6 +32,7 @@
             ]
         },
         {
+            "size": 672591,
             "name": "North Dakota",
             "children": [
                 {
@@ -38,6 +42,7 @@
             ]
         },
         {
+            "size": 710231,
             "name": "Alaska",
             "children": [
                 {
@@ -47,6 +52,7 @@
             ]
         },
         {
+            "size": 814180,
             "name": "South Dakota",
             "children": [
                 {
@@ -56,6 +62,7 @@
             ]
         },
         {
+            "size": 897934,
             "name": "Delaware",
             "children": [
                 {
@@ -65,6 +72,7 @@
             ]
         },
         {
+            "size": 989415,
             "name": "Montana",
             "children": [
                 {
@@ -74,6 +82,7 @@
             ]
         },
         {
+            "size": 1052567,
             "name": "Rhode Island",
             "children": [
                 {
@@ -83,6 +92,7 @@
             ]
         },
         {
+            "size": 1316470,
             "name": "New Hampshire",
             "children": [
                 {
@@ -92,6 +102,7 @@
             ]
         },
         {
+            "size": 1328361,
             "name": "Maine",
             "children": [
                 {
@@ -101,6 +112,7 @@
             ]
         },
         {
+            "size": 1360301,
             "name": "Hawaii",
             "children": [
                 {
@@ -110,6 +122,7 @@
             ]
         },
         {
+            "size": 1567582,
             "name": "Idaho",
             "children": [
                 {
@@ -123,6 +136,7 @@
             ]
         },
         {
+            "size": 1826341,
             "name": "Nebraska",
             "children": [
                 {
@@ -136,6 +150,7 @@
             ]
         },
         {
+            "size": 1852994,
             "name": "West Virginia",
             "children": [
                 {
@@ -149,6 +164,7 @@
             ]
         },
         {
+            "size": 2059179,
             "name": "New Mexico",
             "children": [
                 {
@@ -162,6 +178,7 @@
             ]
         },
         {
+            "size": 2700551,
             "name": "Nevada",
             "children": [
                 {
@@ -175,6 +192,7 @@
             ]
         },
         {
+            "size": 2763885,
             "name": "Utah",
             "children": [
                 {
@@ -188,6 +206,7 @@
             ]
         },
         {
+            "size": 2853118,
             "name": "Kansas",
             "children": [
                 {
@@ -201,6 +220,7 @@
             ]
         },
         {
+            "size": 2915918,
             "name": "Arkansas",
             "children": [
                 {
@@ -214,6 +234,7 @@
             ]
         },
         {
+            "size": 2967297,
             "name": "Mississippi",
             "children": [
                 {
@@ -227,6 +248,7 @@
             ]
         },
         {
+            "size": 3046355,
             "name": "Iowa",
             "children": [
                 {
@@ -240,6 +262,7 @@
             ]
         },
         {
+            "size": 3574097,
             "name": "Connecticut",
             "children": [
                 {
@@ -257,6 +280,7 @@
             ]
         },
         {
+            "size": 3751351,
             "name": "Oklahoma",
             "children": [
                 {
@@ -274,6 +298,7 @@
             ]
         },
         {
+            "size": 3831074,
             "name": "Oregon",
             "children": [
                 {
@@ -291,6 +316,7 @@
             ]
         },
         {
+            "size": 4339367,
             "name": "Kentucky",
             "children": [
                 {
@@ -308,6 +334,7 @@
             ]
         },
         {
+            "size": 4533372,
             "name": "Louisiana",
             "children": [
                 {
@@ -325,6 +352,7 @@
             ]
         },
         {
+            "size": 4625364,
             "name": "South Carolina",
             "children": [
                 {
@@ -342,6 +370,7 @@
             ]
         },
         {
+            "size": 4779736,
             "name": "Alabama",
             "children": [
                 {
@@ -363,6 +392,7 @@
             ]
         },
         {
+            "size": 5029196,
             "name": "Colorado",
             "children": [
                 {
@@ -384,6 +414,7 @@
             ]
         },
         {
+            "size": 5303925,
             "name": "Minnesota",
             "children": [
                 {
@@ -405,6 +436,7 @@
             ]
         },
         {
+            "size": 5686986,
             "name": "Wisconsin",
             "children": [
                 {
@@ -426,6 +458,7 @@
             ]
         },
         {
+            "size": 5773552,
             "name": "Maryland",
             "children": [
                 {
@@ -447,6 +480,7 @@
             ]
         },
         {
+            "size": 5988927,
             "name": "Missouri",
             "children": [
                 {
@@ -468,6 +502,7 @@
             ]
         },
         {
+            "size": 6346105,
             "name": "Tennessee",
             "children": [
                 {
@@ -493,6 +528,7 @@
             ]
         },
         {
+            "size": 6392017,
             "name": "Arizona",
             "children": [
                 {
@@ -518,6 +554,7 @@
             ]
         },
         {
+            "size": 6483802,
             "name": "Indiana",
             "children": [
                 {
@@ -543,6 +580,7 @@
             ]
         },
         {
+            "size": 6547629,
             "name": "Massachusetts",
             "children": [
                 {
@@ -568,6 +606,7 @@
             ]
         },
         {
+            "size": 6724540,
             "name": "Washington",
             "children": [
                 {
@@ -593,6 +632,7 @@
             ]
         },
         {
+            "size": 7994802,
             "name": "Virginia",
             "children": [
                 {
@@ -622,6 +662,7 @@
             ]
         },
         {
+            "size": 8791894,
             "name": "New Jersey",
             "children": [
                 {
@@ -651,6 +692,7 @@
             ]
         },
         {
+            "size": 9535483,
             "name": "North Carolina",
             "children": [
                 {
@@ -684,6 +726,7 @@
             ]
         },
         {
+            "size": 9687653,
             "name": "Georgia",
             "children": [
                 {
@@ -717,6 +760,7 @@
             ]
         },
         {
+            "size": 9883640,
             "name": "Michigan",
             "children": [
                 {
@@ -750,6 +794,7 @@
             ]
         },
         {
+            "size": 11536504,
             "name": "Ohio",
             "children": [
                 {
@@ -787,6 +832,7 @@
             ]
         },
         {
+            "size": 12702379,
             "name": "Pennsylvania",
             "children": [
                 {
@@ -828,6 +874,7 @@
             ]
         },
         {
+            "size": 12830632,
             "name": "Illinois",
             "children": [
                 {
@@ -869,6 +916,7 @@
             ]
         },
         {
+            "size": 18801310,
             "name": "Florida",
             "children": [
                 {
@@ -926,6 +974,7 @@
             ]
         },
         {
+            "size": 19378102,
             "name": "New York",
             "children": [
                 {
@@ -983,6 +1032,7 @@
             ]
         },
         {
+            "size": 25145561,
             "name": "Texas",
             "children": [
                 {
@@ -1056,6 +1106,7 @@
             ]
         },
         {
+            "size": 37253956,
             "name": "California",
             "children": [
                 {
